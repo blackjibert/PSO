@@ -7,10 +7,11 @@
 
 """
 import math
-import random
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
 import pylab as mpl
+import random
+
 mpl.rcParams['font.sans-serif'] = ['SimHei']
 
 
