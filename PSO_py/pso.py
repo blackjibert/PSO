@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@Time ： 2020/9/13 10:08
-@Author ：KI
-@File ：pso.py
-@Motto：Hungry And Humble
 
-"""
 import math
 import matplotlib.pyplot as plt
 import numpy as np
