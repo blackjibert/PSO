@@ -102,6 +102,7 @@ class PSO:
         plt.show()
 
 
+
 if __name__ == '__main__':
     time = 50
     size = 100
